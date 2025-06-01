@@ -1,0 +1,51 @@
+{
+  "common": {
+    "appName": "52 Tassen Kaffee",
+    "loading": "Wird geladen...",
+    "error": "Ein Fehler ist aufgetreten",
+    "notFound": "Seite nicht gefunden",
+    "backToHome": "Zurück zur Startseite"
+  },
+  "header": {
+    "home": "Startseite",
+    "trips": "Meine Reisen",
+    "explore": "Entdecken",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "profile": "Profil",
+    "logout": "Abmelden",
+    "language": "Sprache"
+  },
+  "footer": {
+    "copyright": "© 2023 52 Tassen Kaffee. Alle Rechte vorbehalten.",
+    "terms": "Nutzungsbedingungen",
+    "privacy": "Datenschutzrichtlinie",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "title": "Entdecke die Welt, eine Tasse nach der anderen",
+    "subtitle": "Plane deine Reise mit Kaffeezielen rund um den Globus",
+    "getStarted": "Loslegen",
+    "featuredDestinations": "Ausgewählte Ziele",
+    "recentTrips": "Aktuelle Reisen",
+    "planYourTrip": "Plane deine Reise"
+  },
+  "auth": {
+    "loginTitle": "Bei deinem Konto anmelden",
+    "registerTitle": "Konto erstellen",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "confirmPassword": "Passwort bestätigen",
+    "name": "Vollständiger Name",
+    "loginButton": "Anmelden",
+    "registerButton": "Registrieren",
+    "forgotPassword": "Passwort vergessen?",
+    "noAccount": "Noch kein Konto?",
+    "hasAccount": "Bereits ein Konto?",
+    "signUpNow": "Jetzt registrieren",
+    "loginNow": "Jetzt anmelden",
+    "orContinueWith": "Oder fortfahren mit",
+    "google": "Google",
+    "instagram": "Instagram"
+  }
+}

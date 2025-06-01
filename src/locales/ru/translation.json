@@ -1,0 +1,51 @@
+{
+  "common": {
+    "appName": "52 Чашки Кофе",
+    "loading": "Загрузка...",
+    "error": "Произошла ошибка",
+    "notFound": "Страница не найдена",
+    "backToHome": "Вернуться на главную"
+  },
+  "header": {
+    "home": "Главная",
+    "trips": "Мои поездки",
+    "explore": "Исследовать",
+    "login": "Войти",
+    "register": "Регистрация",
+    "profile": "Профиль",
+    "logout": "Выйти",
+    "language": "Язык"
+  },
+  "footer": {
+    "copyright": "© 2023 52 Чашки Кофе. Все права защищены.",
+    "terms": "Условия использования",
+    "privacy": "Политика конфиденциальности",
+    "contact": "Связаться с нами"
+  },
+  "home": {
+    "title": "Откройте мир, одна чашка за раз",
+    "subtitle": "Планируйте свое путешествие с кофейными направлениями по всему миру",
+    "getStarted": "Начать",
+    "featuredDestinations": "Избранные направления",
+    "recentTrips": "Недавние поездки",
+    "planYourTrip": "Планируйте свою поездку"
+  },
+  "auth": {
+    "loginTitle": "Войти в аккаунт",
+    "registerTitle": "Создать аккаунт",
+    "email": "Электронная почта",
+    "password": "Пароль",
+    "confirmPassword": "Подтвердите пароль",
+    "name": "Полное имя",
+    "loginButton": "Войти",
+    "registerButton": "Зарегистрироваться",
+    "forgotPassword": "Забыли пароль?",
+    "noAccount": "Нет аккаунта?",
+    "hasAccount": "Уже есть аккаунт?",
+    "signUpNow": "Зарегистрироваться сейчас",
+    "loginNow": "Войти сейчас",
+    "orContinueWith": "Или продолжить с",
+    "google": "Google",
+    "instagram": "Instagram"
+  }
+}

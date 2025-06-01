@@ -1,0 +1,51 @@
+{
+  "common": {
+    "appName": "52 Cups of Coffee",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "notFound": "Page not found",
+    "backToHome": "Back to Home"
+  },
+  "header": {
+    "home": "Home",
+    "trips": "My Trips",
+    "explore": "Explore",
+    "login": "Log In",
+    "register": "Register",
+    "profile": "Profile",
+    "logout": "Log Out",
+    "language": "Language"
+  },
+  "footer": {
+    "copyright": "© 2023 52 Cups of Coffee. All rights reserved.",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "contact": "Contact Us"
+  },
+  "home": {
+    "title": "Discover the World, One Cup at a Time",
+    "subtitle": "Plan your journey with coffee destinations around the globe",
+    "getStarted": "Get Started",
+    "featuredDestinations": "Featured Destinations",
+    "recentTrips": "Recent Trips",
+    "planYourTrip": "Plan Your Trip"
+  },
+  "auth": {
+    "loginTitle": "Log In to Your Account",
+    "registerTitle": "Create an Account",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "name": "Full Name",
+    "loginButton": "Log In",
+    "registerButton": "Register",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "signUpNow": "Sign up now",
+    "loginNow": "Log in now",
+    "orContinueWith": "Or continue with",
+    "google": "Google",
+    "instagram": "Instagram"
+  }
+}
